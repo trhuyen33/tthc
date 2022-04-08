@@ -10,7 +10,7 @@ dependencies:
   animations: ^2.0.2
   dvhcvn:
     git:
-      url: "https://github.com/trhuyen33/dvhcvn"
+      url: "https://github.com/definev/dvhcvn.git"
       path: transformers/dart-dvhcvn
       ref: master
   # Network
